@@ -1,5 +1,5 @@
 ## ImageJ-macro-for-cellular-intensity-analysis
-###Introduction
+### Introduction
 These macros were generated to analyze overall intensity of each cell from fluorescent images in Fiji or ImageJ.
 The parameters here were setted for 10x images, and can be modified to suit your needs. Image example was taken:channel1_BF,channel2_FITC, channel3_DAPI. In both fluorescent channel, nuclears were labeled.
 
