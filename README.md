@@ -14,3 +14,5 @@ Install ImageJ or Fiji
 >C:\Program Files\Fiji.app\macros
 4. Open "batch analysis" in Fiji, and run macro, then you can choose the file folder you want to analyze.
 5. Adjust the parameters till you feel happy.
+6. After analyze images, all intermediate results were saved, intensity of cells was saved in csv file. 
+7. Use python script "batch file processing to analyze cell intensity" to open csv file and analyze or plot Intensity.
