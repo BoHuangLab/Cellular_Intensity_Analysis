@@ -1,12 +1,11 @@
-## ImageJ-macro-for-cellular-intensity-analysis
+# Cellular Intensity Analysis
 ### Introduction
-These macros were generated to analyze overall intensity of each cell from fluorescent images in Fiji or ImageJ.
-The parameters here were setted for 10x images, and can be modified to suit your needs. Image example was taken:channel1_BF,channel2_FITC, channel3_DAPI. In both fluorescent channel, nuclears were labeled.
-
+These scripts were generated to analyze overall intensity of each nucleus from fluorescent images in Fiji or ImageJ.
+The parameters here were chosen for 10x images, and can be modified to suit your needs. Image example was taken:channel1_BF,channel2_FITC, channel3_DAPI. In both fluorescent channel, nuclei were labeled.
 
 ### Requirements
-1. ImageJ macros need to install ImageJ or Fiji.
-2. python scripts need to install python pandas, numpy, matplotlib, scipy packages
+1. ImageJ macros require ImageJ or Fiji.
+2. python scripts require python pandas, numpy, matplotlib, scipy packages
 
 ### Setup
 1. Download macros
