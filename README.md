@@ -5,7 +5,8 @@ The parameters here were setted for 10x images, and can be modified to suit your
 
 
 ### Requirements
-Install ImageJ or Fiji
+1. ImageJ macros need to install ImageJ or Fiji.
+2. python scripts need to install python pandas, numpy, matplotlib, scipy packages
 
 ### Setup
 1. Download macros
@@ -15,4 +16,4 @@ Install ImageJ or Fiji
 4. Open "batch analysis" in Fiji, and run macro, then you can choose the file folder you want to analyze.
 5. Adjust the parameters till you feel happy.
 6. After analyze images, all intermediate results were saved, intensity of cells was saved in csv file. 
-7. Use python script "batch file processing to analyze cell intensity" to open csv file and analyze or plot Intensity.
+7. Use python script "mNG_Intensity_distribution_plot" to open csv file and analyze or plot Intensity. And use "Median_Intensity_plot_and_statistical_tests" to plot Median Intensity and perform their statistical test. 
