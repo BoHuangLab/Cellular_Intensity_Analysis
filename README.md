@@ -5,7 +5,7 @@ The parameters here were chosen for 10x images, and can be modified to suit your
 
 ### Requirements
 1. [ImageJ macros](https://github.com/BoHuangLab/Cellular_Intensity_Analysis/tree/master/ijm_macros) require ImageJ or Fiji.
-2. python scripts require python pandas, numpy, matplotlib, scipy packages
+2. [python scripts](https://github.com/BoHuangLab/Cellular_Intensity_Analysis/tree/master/python_scripts) require python pandas, numpy, matplotlib, scipy packages
 
 ### Setup
 1. Download macros
